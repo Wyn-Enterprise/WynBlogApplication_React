@@ -26,4 +26,3 @@ You may also see any lint errors in the console.
 ### Documentation
 
 - [Developer Documentation](https://wyn.grapecity.com/docs/dev-docs/)
-- [Embedding Wyn Report Viewer and Designer Using Div Tags](https://wyn.grapecity.com/docs/dev-docs/Embedding-Wyn/Embedding-Designer-Viewer-Using-Div)
