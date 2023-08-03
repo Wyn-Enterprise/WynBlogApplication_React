@@ -11,7 +11,7 @@ This sample requires:
 ## Build and run the sample
 
 ### Steps
-1. Clone the repository: `git clone https://github.com/WynEnterprise/BlogReactSample.git`
+1. Clone the repository: `git clone https://github.com/Wyn-Enterprise/WynBlogApplication_React`
 2. Navigate to the project folder: `cd your-repo`
 3. Install the dependancies: `npm install`
 4. Start the React applicationL: `npm start`
