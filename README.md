@@ -5,7 +5,7 @@ This sample showcases the sample React application included in the Wyn Enterpris
 ## System requirements
 
 This sample requires:
- * [Wyn Enterprise](https://wyn.grapecity.com/demos/request/trial) 5.0.00236.0 or newer
+ * [Wyn Enterprise](https://www.wynenterprise.com/try-wyn-for-free/wyn-evaluation-options/) 5.0.00236.0 or newer
  * Before you start, make sure you have the following installed: Node.js. You can download it from here: https://nodejs.org/en
 
 ## Build and run the sample
@@ -25,4 +25,4 @@ You may also see any lint errors in the console.
 
 ### Documentation
 
-- [Developer Documentation](https://wyn.grapecity.com/docs/dev-docs/)
+- [Developer Documentation](https://learn.wynenterprise.com/docs/dev-docs)
