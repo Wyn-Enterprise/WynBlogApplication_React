@@ -1,4 +1,4 @@
-import { WynIntegration } from "@grapecity/wyn-integration";
+import { WynIntegration } from "@wynenterprise/wyn-integration";
 
 import React, { useEffect } from 'react';
 
